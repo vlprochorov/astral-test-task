@@ -1,5 +1,7 @@
 This project created by Vladimir Prokhorov
-My first blog on ReactJS
+<br>
+
+## My first blog on ReactJS
 
 ## Available Scripts
 In the project directory, you can run:
