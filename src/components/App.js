@@ -2,7 +2,6 @@ import React from 'react'
 import './App.css'
 import './Reset.css'
 import { FacebokIcon, GithubIcon, InstagramIcon, TwitterIcon } from './Icons'
-// import { Link, Route } from "./Router";
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom'
 import Home from './home/Home'
 import About from './about/About'
