@@ -1,0 +1,14 @@
+.button-loader {
+  display: block;
+  margin: 0 auto;
+  padding: 17px 40px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: normal;
+  color: #000000;
+  border: 1px solid #d3d3d3;
+  box-sizing: border-box;
+  border-radius: 3px;
+}

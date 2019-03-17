@@ -1,0 +1,29 @@
+.about-description {
+  width: 1280px;
+}
+.about-img {
+  width: 1280px;
+}
+.about-container {
+  min-height: 1080px;
+  margin: 30px 40px;
+}
+.about-title {
+  font-family: Roboto;
+  font-size: 36px;
+  line-height: normal;
+  color: #333333;
+  margin-bottom: 30px;
+}
+.about-subtitle {
+  font-family: Roboto;
+  font-size: 24px;
+  line-height: normal;
+  color: #333333;
+  margin-bottom: 15px;
+}
+.about-text {
+  font-family: Roboto;
+  line-height: normal;
+  margin-bottom: 30px;
+}
