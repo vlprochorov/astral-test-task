@@ -1,7 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import './CommentInfo.css'
-import Comment from '../comments/Comment'
 import { Cat } from '../Icons'
 
 class CommentInfo extends React.Component {
@@ -25,11 +24,12 @@ class CommentInfo extends React.Component {
   }
 }
 
-// CommentInfo.data = {
-//   userId: PropTypes.number.isRequired,
-//   id: PropTypes.number.isRequired,
-//   title: PropTypes.string.isRequired,
-//   body: PropTypes.bool.isRequired,
-// }
+CommentInfo.data = {
+  postId: PropTypes.number.isRequired,
+  id: PropTypes.number.isRequired,
+  name: PropTypes.string.isRequired,
+  email: PropTypes.string.isRequired,
+  body: PropTypes.bool.isRequired,
+}
 
 export default CommentInfo
